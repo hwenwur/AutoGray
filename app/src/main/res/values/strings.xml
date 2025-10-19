@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoGray</string>
+    <string name="accessibility_service_description">This service monitors app usage to apply grayscale filters to specific apps</string>
+</resources>

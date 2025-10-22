@@ -25,6 +25,7 @@ public class GrayscaleAccessibilityService extends AccessibilityService {
     static {
         IGNORED_PACKAGES.add("com.android.systemui");
         IGNORED_PACKAGES.add("miui.systemui.plugin");
+        IGNORED_PACKAGES.add("com.sohu.inputmethod.sogou.xiaomi");
         IGNORED_PACKAGES.add("li.songe.gkd");
         IGNORED_PACKAGES.add("com.miui.personalassistant");
     }
